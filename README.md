@@ -15,7 +15,7 @@ GTA VI just launched on 19 November 2026. I used Python to analyse 25 years of G
 ![GTA Sales](gta_total_sales.png)
 
 ### Regional Breakdown — NA vs EU vs Japan
-![GTA VI Prediction](gta_prediction_chart.png)
+![Regional Sales](gta_regional_sales.png)
 
 ### GTA VI Prediction (Linear Regression)
 ![GTA VI Prediction](gta_vi_prediction.png)
